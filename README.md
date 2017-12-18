@@ -1,6 +1,9 @@
 PROJECT LARP
 ===
 
+Tests based on Specs project. Run on Cucumber Java (Unit, Integration and Acceptance). Edit
+Add topics
+
 ## Content
 
 * [Process](#process)
